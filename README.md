@@ -1,3 +1,5 @@
-# Multi
+# Multipurpose
 
-# My the first sity for learning
+# Site for portpholio
+
+# http://najivka.mati.su/www/Multipurpose/

@@ -1,0 +1,39 @@
+@font-face {
+	font-family: 'Lavanderia';
+	src: url('./fonts/LavanderiaC_regular/LavanderiaC_regular.woff') format('woff');
+	src:
+        url('./fonts/LavanderiaC_regular/LavanderiaC_regular.otf') format('opentype'),
+        url('./fonts/LavanderiaC_regular/LavanderiaC_regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+    font-family: 'Segoe';
+    src: url('./fonts/SegoeUIRegular/SegoeUIRegular.woff') format('woff');
+    src:
+		url('./fonts/SegoeUIRegular/SegoeUIRegular.otf') format('opentype'),
+	    url('./fonts/SegoeUIRegular/SegoeUIRegular.ttf') format('truetype');
+    font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+    font-family: 'AlteHaasGrotesk';
+    src: url('./fonts/AlteHaasGrotesk_Bold/AlteHaasGrotesk_Bold.woff') format('woff');
+    src:
+		url('./fonts/AlteHaasGrotesk_Bold/AlteHaasGrotesk_Bold.eot') format('embedded-opentype'),
+	    url('./fonts/AlteHaasGrotesk_Bold/AlteHaasGrotesk_Bold.ttf') format('truetype');
+    font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+    font-family: 'Univers';
+    src: url('./fonts/Univers_Light/Univers_Light.woff') format('woff');
+    src:
+		url('./fonts/Univers_Light/Univers_Light.eot') format('embedded-opentype'),
+	    url('./fonts/Univers_Light/Univers_Light.ttf') format('truetype');
+    font-weight: lighter;
+	font-style: normal;
+}
