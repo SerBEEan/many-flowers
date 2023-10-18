@@ -1,5 +1,3 @@
-# Multipurpose
+# Many Flowers
 
-# Site for portpholio
-
-# http://najivka.mati.su/www/Multipurpose/
+[Demo](https://serbeean.github.io/many-flowers/)
